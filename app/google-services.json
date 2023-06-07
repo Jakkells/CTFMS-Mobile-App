@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537393579405",
+    "project_id": "ctfms-project",
+    "storage_bucket": "ctfms-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537393579405:android:0ff77186615c0e45d2a9c4",
+        "android_client_info": {
+          "package_name": "com.example.ctfmsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537393579405-9qgftm2t115esanp6cr75beqr15btr6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93N8L4xhBLZVk_mK4EtE22kFbb0GduVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537393579405-9qgftm2t115esanp6cr75beqr15btr6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
